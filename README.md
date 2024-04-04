@@ -5,11 +5,11 @@
 [![Forks][forks-shield]](https://github.com/franckferman/PowerShellScriptGuiTemplate/network/members)
 [![Stargazers][stars-shield]](https://github.com/franckferman/PowerShellScriptGuiTemplate/stargazers)
 [![Issues][issues-shield]](https://github.com/franckferman/PowerShellScriptGuiTemplate/issues)
-[![License][license-shield]](https://github.com/franckferman/PowerShellScriptGuiTemplate/blob/stable/LICENSE)
+[![License][license-shield]](https://github.com/franckferman/PowerShellScriptGuiTemplate/blob/dev/LICENSE)
 
 <!-- Logo -->
 <a href="https://github.com/franckferman/PowerShellScriptGuiTemplate">
-  <img src="https://raw.githubusercontent.com/franckferman/PowerShellScriptGuiTemplate/main/docs/github/graphical_resources/Logo-Without_background-PowerShellScriptGuiTemplate.png" alt="PowerShellScriptGuiTemplate Logo" width="auto" height="auto">
+  <img src="https://raw.githubusercontent.com/franckferman/PowerShellScriptGuiTemplate/dev/docs/github/graphical_resources/Logo-Without_background-PowerShellScriptGuiTemplate.png" alt="PowerShellScriptGuiTemplate Logo" width="auto" height="auto">
 </a>
 
 <!-- Title & Tagline -->
@@ -22,7 +22,7 @@
 
 <!-- Links & Demo -->
 <p align="center">
-    <a href="https://github.com/franckferman/PowerShellScriptGuiTemplate/blob/stable/README.md" class="button-style"><strong>📘 Explore the full documentation</strong></a>
+    <a href="https://github.com/franckferman/PowerShellScriptGuiTemplate/blob/dev/README.md" class="button-style"><strong>📘 Explore the full documentation</strong></a>
     ·
     <a href="https://github.com/franckferman/PowerShellScriptGuiTemplate/issues">🐞 Report Bug</a>
     ·
@@ -54,7 +54,7 @@
 This project provides a comprehensive and accessible template for developing interactive PowerShell GUI applications. Designed to facilitate the automation of various tasks within Windows environments through a graphical interface, it enables system administrators, IT professionals, and developers to create applications that allow users to interactively input data, control processes, and adjust settings with ease. It stands as a fundamental tool for anyone looking to enhance their PowerShell scripting with user-friendly GUI elements.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/franckferman/PowerShellScriptGuiTemplate/main/docs/github/graphical_resources/powershell-script-gui-template-main.png" alt="PowerShell Script Gui Template main menu Demo Screenshot" width="auto" height="auto">
+  <img src="https://raw.githubusercontent.com/franckferman/PowerShellScriptGuiTemplate/dev/docs/github/graphical_resources/powershell-script-gui-template-main.png" alt="PowerShell Script Gui Template main menu Demo Screenshot" width="auto" height="auto">
 </p>
 
 Dive into GUI-based PowerShell scripting with confidence using this interactive GUI script template as your starting point. Customize it to fit your specific tasks and explore the efficiency and power of automated scripting in Windows, all through a user-friendly graphical interface.
@@ -152,7 +152,7 @@ Your support is greatly appreciated. We're grateful for every star! Your backing
 
 ## 📚 License
 
-This project is licensed under the GNU Affero General Public License, Version 3.0. For more details, please refer to the LICENSE file in the repository: [Read the license on GitHub](https://github.com/franckferman/PowerShellScriptGuiTemplate/blob/stable/LICENSE)
+This project is licensed under the GNU Affero General Public License, Version 3.0. For more details, please refer to the LICENSE file in the repository: [Read the license on GitHub](https://github.com/franckferman/PowerShellScriptGuiTemplate/blob/dev/LICENSE)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
 
@@ -175,7 +175,7 @@ This project is licensed under the GNU Affero General Public License, Version 3.
 [issues-shield]: https://img.shields.io/github/issues/franckferman/PowerShellScriptGuiTemplate.svg?style=for-the-badge
 [issues-url]: https://github.com/franckferman/PowerShellScriptGuiTemplate/issues
 [license-shield]: https://img.shields.io/github/license/franckferman/PowerShellScriptGuiTemplate.svg?style=for-the-badge
-[license-url]: https://github.com/franckferman/PowerShellScriptGuiTemplate/blob/stable/LICENSE
+[license-url]: https://github.com/franckferman/PowerShellScriptGuiTemplate/blob/dev/LICENSE
 [protonmail-shield]: https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=blueviolet
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=blue
