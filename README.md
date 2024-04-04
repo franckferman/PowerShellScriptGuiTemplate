@@ -9,7 +9,7 @@
 
 <!-- Logo -->
 <a href="https://github.com/franckferman/PowerShellScriptGuiTemplate">
-  <img src="https://raw.githubusercontent.com/franckferman/PowerShellScriptGuiTemplate/main/docs/github/graphical_resources/Logo-Without_background-PowerShellScriptGuiTemplate.png" alt="PowerShellScriptGuiTemplate Logo" width="auto" height="auto">
+  <img src="https://raw.githubusercontent.com/franckferman/PowerShellScriptGuiTemplate/stable/docs/github/graphical_resources/Logo-Without_background-PowerShellScriptGuiTemplate.png" alt="PowerShellScriptGuiTemplate Logo" width="auto" height="auto">
 </a>
 
 <!-- Title & Tagline -->
@@ -54,7 +54,7 @@
 This project provides a comprehensive and accessible template for developing interactive PowerShell GUI applications. Designed to facilitate the automation of various tasks within Windows environments through a graphical interface, it enables system administrators, IT professionals, and developers to create applications that allow users to interactively input data, control processes, and adjust settings with ease. It stands as a fundamental tool for anyone looking to enhance their PowerShell scripting with user-friendly GUI elements.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/franckferman/PowerShellScriptGuiTemplate/main/docs/github/graphical_resources/powershell-script-gui-template-main.png" alt="PowerShell Script Gui Template main menu Demo Screenshot" width="auto" height="auto">
+  <img src="https://raw.githubusercontent.com/franckferman/PowerShellScriptGuiTemplate/stable/docs/github/graphical_resources/powershell-script-gui-template-main.png" alt="PowerShell Script Gui Template main menu Demo Screenshot" width="auto" height="auto">
 </p>
 
 Dive into GUI-based PowerShell scripting with confidence using this interactive GUI script template as your starting point. Customize it to fit your specific tasks and explore the efficiency and power of automated scripting in Windows, all through a user-friendly graphical interface.
